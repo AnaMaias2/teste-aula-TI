@@ -178,8 +178,8 @@ button {
 }
 
 button:hover {
-  height: 4vw;
-  width: 8vw;
+  height: 5vw;
+  width: 20vw;
   border-radius: 10px;
   background-color: rgb(88, 33, 140);
   color: white;
